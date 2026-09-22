@@ -1,4 +1,19 @@
-﻿## v1.0.0
+﻿## v1.0.1
+
+# MinerF Bot v1.0.1
+
+## Highlights
+
+- Maintenance release for validating the in-app update flow.
+- Updated the Windows installer and release metadata to `v1.0.1`.
+- Preserved SHA-256 verification before update installation.
+
+## Release assets
+
+- `MinerFBot-Setup-1.0.1.exe`
+- `MinerFBot-Setup-1.0.1.exe.sha256`
+
+## v1.0.0
 
 # MinerF Bot v1.0.0
 
