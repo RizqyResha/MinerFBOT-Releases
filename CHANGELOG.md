@@ -1,4 +1,19 @@
-﻿## v1.0.1
+﻿## v1.0.2
+
+# MinerF Bot v1.0.2
+
+## Highlights
+
+- Fixed the client footer version label to use the desktop bridge version.
+- Updated the Windows installer and release metadata to `v1.0.2`.
+- Preserved SHA-256 verification before update installation.
+
+## Release assets
+
+- `MinerFBot-Setup-1.0.2.exe`
+- `MinerFBot-Setup-1.0.2.exe.sha256`
+
+## v1.0.1
 
 # MinerF Bot v1.0.1
 
