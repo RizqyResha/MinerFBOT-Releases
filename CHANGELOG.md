@@ -8,7 +8,7 @@
 - Added Trade Skill confirmation and configurable roster switching.
 - Added explicit, consent-gated mouse handover and pointer repositioning through the Action Dispatcher.
 - Spaced workflow diagram nodes for clearer separation.
-- Added a standalone ViGEm controller capability probe; ViGEm pointer positioning is not integrated into production automation.
+- Added Auto Roster Switch to rotate configured characters based on Life Energy thresholds.
 
 ## Validation notes
 
