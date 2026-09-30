@@ -1,4 +1,26 @@
-﻿## v1.0.2
+﻿## v1.2.0
+
+# MinerF Bot v1.2.0
+
+## Highlights
+
+- Added unified Float and Net fishing orchestration with Net-priority checks, retry handling, and Float fallback.
+- Added Trade Skill confirmation and configurable roster switching.
+- Added explicit, consent-gated mouse handover and pointer repositioning through the Action Dispatcher.
+- Spaced workflow diagram nodes for clearer separation.
+- Added a standalone ViGEm controller capability probe; ViGEm pointer positioning is not integrated into production automation.
+
+## Validation notes
+
+- Float success and Net-priority/retry orchestration were observed in a bounded live run. Net mini-game success was not achieved; gameplay acceptance remains unverified.
+- Mouse handover changes have not received final live validation. Explicit per-run consent and fail-closed safety checks remain required.
+
+## Release assets
+
+- `MinerFBot-Setup-1.2.0.exe`
+- `MinerFBot-Setup-1.2.0.exe.sha256`
+
+## v1.0.2
 
 # MinerF Bot v1.0.2
 
