@@ -1,4 +1,10 @@
-﻿## v1.2.0
+## v1.2.1
+
+### Highlights
+- Added CSV import and template download for character rotation.
+- Improved spacing between the Automation heading and CSV controls on narrow layouts.
+
+## v1.2.0
 
 # MinerF Bot v1.2.0
 
